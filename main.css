@@ -1,0 +1,89 @@
+.main-bar__title1{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.main-bar__chat1{
+    margin-top: 15px;
+    border: 1px solid #FF7E35;
+    background-color: #FF7E35;
+    border-radius: 15px;
+    padding: 10px 5px 10px 5px;
+    margin-right: 15px;
+    color: white;
+    font-size: 15px;
+}
+
+.main-bar__time1{
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.main-bar__title2{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin-top: 20px;
+}
+
+.main-bar__img{
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+
+.main-bar__chat2{
+    margin-top: 4px;
+    border: 1px solid #E9EBEC;
+    background-color: #E9EBEC;
+    border-radius: 15px;
+    padding: 10px 5px 10px 5px;
+    font-size: 15px;
+}
+
+.main-bar__time2{
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    padding-right: 20px;
+}
+
+.main-bar__promise{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 0 5px;
+    border: 1px solid #F5F5F5;
+    padding: 10px 80px 10px 0;
+}
+
+.promise-chat{
+    flex-direction: column;
+}
+
+.promise-icon{
+    width: 10px;
+    height: 10px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+.promise-time{
+    font-size: 10px;
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+
+.promise-contect{
+    font-size: 10px;
+}
+
+.main-bar__last{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
